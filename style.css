@@ -50,3 +50,32 @@ section{
     background: url(images/dream-bg.png) no-repeat;
     background-position: right;
 }
+
+.single-half{
+    box-shadow: 10px 10px 40px gray;
+    height: 65%;
+    width: 40%;
+    border-radius: 5px;
+
+}
+.experea{
+    background: url(images/exp-bg.png) no-repeat;
+    background-position: left;
+}
+
+#f-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient( lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#newbie{
+    border-left: 7px solid;
+    border-image: linear-gradient( blue, cyan);
+    border-image-slice: 1;
+}
+
+footer .foot{
+    text-align: center;
+    font-size: small;
+}
