@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+p{
+    color: dimgray;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.name-ome{
+    color: teal;
+}
+
+.first-half{
+    float: left;
+    width: 40%;
+    margin:3%;
+    padding-left: 2%;
+}
+.first-half img{
+    width: 100%;
+}
+
+.bruce-banner{
+    background: url(images/top-banner.png) no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.hire-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    background-image: linear-gradient(45deg, cyan, teal);
+    border-radius: 7px;
+    font-weight: 650;
+}
+.cont{
+    padding-top: 60px;
+}
+.big_d{
+    background: url(images/dream-bg.png) no-repeat;
+    background-position: right;
+}
